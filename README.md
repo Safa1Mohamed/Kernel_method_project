@@ -1,1 +1,1 @@
-# Kernel_method_project
+# Kernel_methods_project
